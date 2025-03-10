@@ -1,0 +1,10 @@
+a p {
+    text-decoration: none;
+    font-size: 1.2rem; /* Puoi regolare questa dimensione secondo le tue preferenze */
+    color: red; /* Cambia il colore del testo a rosso */
+}
+
+a p:hover {
+    color: darkred; /* Cambia il colore del testo quando si passa sopra con il mouse */
+    text-decoration: none; /* Evita che appaia la linea blu al passaggio del mouse */
+}
